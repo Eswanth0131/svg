@@ -1,6 +1,6 @@
 # Text-to-SVG Generation with Fine-Tuned Qwen2.5-3B
 
-Course project for NYU Tandon Deep Learning (CS-GY 9223) Spring 2026. Fine-tunes Qwen2.5-3B-Instruct with LoRA on 50,000 prompt-SVG pairs to generate valid SVG images from natural-language prompts. All outputs pass through an SVG repair pipeline at inference time to ensure 100% submission validity.
+Course project/midterm for NYU Tandon Deep Learning (CS-GY 9223) Spring 2026. Fine-tunes Qwen2.5-3B-Instruct with LoRA on 50,000 prompt-SVG pairs to generate valid SVG images from natural-language prompts. All outputs pass through an SVG repair pipeline at inference time to ensure 100% submission validity.
 
 **Best public leaderboard score: 18.11**
 
